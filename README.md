@@ -53,7 +53,7 @@ Requires an external 3.3V CAN transceiver, such as a [TI SN65HVD230](http://www.
 
 ```sh
 cd ~/Documents/Arduino/libraries/
-git clone https://github.com/sandeepmistry/arduino-CAN CAN
+git clone https://github.com/yasir-shahzad/uCANPack
 ```
 
 ## API
@@ -64,7 +64,7 @@ See [API.md](API.md).
 
 See [examples](examples) folder.
 
-For OBD-II examples, checkout the [arduino-OBD2](https://github.com/sandeepmistry/arduino-OBD2) library's [examples](https://github.com/sandeepmistry/arduino-OBD2/examples).
+For OBD-II examples, checkout the [arduino-OBD2](https://github.com/Yasir-Shahzad/arduino-OBD2) library's [examples](https://github.com/Yasir-shahzad/arduino-OBD2/examples).
 
 ## License
 
