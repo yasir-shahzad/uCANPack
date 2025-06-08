@@ -33,7 +33,7 @@ This curated list helps a reverse engineering CAN bus devices with lightly speci
 > **Note**
 > Items marked as "🔝" are highly recommended.
 
-Permanent URL to this list: https://github.com/iDoka/awesome-canbus
+
 
 
 
